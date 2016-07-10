@@ -4,6 +4,8 @@ FSX airport scenery for northeast Ohio
 ## Installation
 Copy the scenery and texture folders to your FSX addon scenery folder.
 
+NOTE: For best effect, make sure your Scenery Complexity slider is set to "very dense".
+
 ## Modelled Airports
 
 * KCAK

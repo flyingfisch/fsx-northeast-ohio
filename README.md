@@ -11,6 +11,8 @@ Copy the scenery and texture folders to your FSX addon scenery folder.
 * 1G3
 * 1G5
 * KHZY
+* 2D1
+* 2D7
 
 ## Screenshots
 
